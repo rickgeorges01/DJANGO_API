@@ -1,0 +1,14 @@
+# Environnements virtuels
+venv/
+.env
+
+# Fichiers Python
+*.pyc
+__pycache__/
+
+# Fichiers Django
+db.sqlite3
+
+# Jetons secrets
+*.log
+*.sqlite3
